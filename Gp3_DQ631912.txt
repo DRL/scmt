@@ -1,0 +1,20 @@
+>Feature gb|DQ631912.1|
+1	55	tRNA
+			product	tRNA-Tyr
+			codon_recognized	UAY
+			anticodon	(pos:32..34,aa:Tyr,seq:gta)
+100	304	gene
+			gene	ND3
+			pseudo
+998	2086	gene
+			gene	cytb
+998	2086	CDS
+			product	cytochrome b
+			transl_table	5
+			protein_id	gb|ABG23242.1|
+2733	3159	gene
+			gene	COI
+			pseudo
+3160	6400	misc_feature
+			note	non-coding region shared amongst elements of the multipartite Globodera pallida mtDNA; possibly involved in the regulation of replication and/or transcription
+

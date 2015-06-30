@@ -1,0 +1,52 @@
+>Feature gb|EF193005.1|
+1	55	tRNA
+			product	tRNA-Thr
+			codon_recognized	ACN
+			anticodon	(pos:32..34,aa:Thr,seq:tgt)
+60	1271	gene
+			gene_desc	ND4
+			pseudo
+94	131	repeat_region
+			note	repeat 1
+			rpt_type	tandem
+			rpt_unit_range	94..112
+1293	1240	tRNA
+			product	tRNA-Leu
+			codon_recognized	UUR
+1345	2127	gene
+			gene_desc	COIII
+1345	2127	CDS
+			product	cytochrome oxidase subunit III
+			transl_table	5
+			protein_id	gb|ABO31089.1|
+2174	2539	gene
+			gene_desc	ND3
+2174	2539	CDS
+			product	NADH-ubiquinone oxidoreductase subunit 3
+			transl_table	5
+			protein_id	gb|ABO31090.1|
+2564	3027	repeat_region
+4073	4536
+			order
+			note	repeat 1
+			rpt_type	dispersed
+2609	3692	gene
+			gene_desc	cytb
+			pseudo
+3809	3852	repeat_region
+			note	repeat 2
+			rpt_type	tandem
+			rpt_unit_range	3809..3830
+4078	4130	tRNA
+			product	tRNA-Gln
+			codon_recognized	CAR
+6098	6135	repeat_region
+			note	repeat 3
+			rpt_type	tandem
+			rpt_unit_range	6098..6106
+6511	6557	repeat_region
+8686	8732
+			order
+			note	repeat 2
+			rpt_type	dispersed
+

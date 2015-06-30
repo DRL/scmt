@@ -1,0 +1,82 @@
+>Feature emb|AJ249395.1|
+7	720	gene
+			gene	COII
+7	720	CDS
+			product	cytochrome oxidase subunit II
+			function	essential for oxidative phosphorylation
+			transl_table	5
+			protein_id	emb|CAB55572.1|
+			db_xref	GOA:Q9T6M4
+			db_xref	InterPro:IPR001505
+			db_xref	InterPro:IPR002429
+			db_xref	InterPro:IPR008972
+			db_xref	InterPro:IPR015964
+			db_xref	UniProtKB/TrEMBL:Q9T6M4
+746	1954	gene
+			gene	ND4
+746	1954	CDS
+			product	NADH-ubiquinone oxidoreductase subunit 4
+			function	essential for oxidative phosphorylation
+			transl_table	5
+			protein_id	emb|CAB55573.1|
+			db_xref	GOA:Q9T6M3
+			db_xref	InterPro:IPR001750
+			db_xref	InterPro:IPR003918
+			db_xref	UniProtKB/TrEMBL:Q9T6M3
+2038	2811	gene
+			gene	COIII
+2038	2811	CDS
+			product	cytochrome oxidase subunit III
+			function	essential for oxidative phosphorylation
+			transl_table	5
+			protein_id	emb|CAB55574.1|
+			db_xref	GOA:Q9T6M2
+			db_xref	InterPro:IPR000298
+			db_xref	InterPro:IPR013833
+			db_xref	UniProtKB/TrEMBL:Q9T6M2
+2844	3287	gene
+			gene	ND6
+2844	3287	CDS
+			product	NADH-ubiquinone oxidoreductase subunit 6
+			function	essential for oxidative phosphorylation
+			transl_table	5
+			protein_id	emb|CAB55575.1|
+			db_xref	GOA:Q9T6M1
+			db_xref	UniProtKB/TrEMBL:Q9T6M1
+3349	4212	gene
+			gene	ND1
+3349	4212	CDS
+			product	NADH-ubiquinone oxidoreductase subunit 1
+			function	essential for oxidative phosphorylation
+			transl_table	5
+			protein_id	emb|CAB55576.1|
+			db_xref	GOA:Q9T6M0
+			db_xref	InterPro:IPR001694
+			db_xref	InterPro:IPR018086
+			db_xref	UniProtKB/TrEMBL:Q9T6M0
+4386	4721	gene
+			gene	ND3
+4386	4721	CDS
+			product	NADH-ubiquinone oxidoreductase subunit 3
+			function	essential for oxidative phosphorylation
+			transl_table	5
+			protein_id	emb|CAB55577.1|
+			db_xref	GOA:Q9T6L9
+			db_xref	InterPro:IPR000440
+			db_xref	UniProtKB/TrEMBL:Q9T6L9
+4794	5882	gene
+			gene	cytb
+4794	5882	CDS
+			product	cytochrome b
+			function	essential for oxidative phosphorylation
+			transl_table	5
+			protein_id	emb|CAB55578.1|
+			db_xref	GOA:Q9T6L8
+			db_xref	InterPro:IPR005797
+			db_xref	InterPro:IPR005798
+			db_xref	InterPro:IPR016174
+			db_xref	InterPro:IPR016175
+			db_xref	UniProtKB/TrEMBL:Q9T6L8
+5883	9428	misc_feature
+			note	non-coding region shared amongst elements of the multipartite G. pallida mtDNA. Possibly involved in the regulation of replication and/or transcription.
+

@@ -1,0 +1,11 @@
+>Feature gb|EF462979.1|
+1283	2671	gene
+			gene_desc	COI
+			pseudo
+4452	4507	tRNA
+			product	tRNA-Lys
+			codon_recognized	AAR
+			anticodon	(pos:4483..4485,aa:Lys,seq:ttt)
+4508	5480	misc_feature
+			note	non-coding region shared amongst elements of the multipartite Globodera mtDNA; possibly involved in the regulation of replication and/or transcription
+

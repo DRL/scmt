@@ -1,0 +1,11 @@
+>Feature gb|DQ631914.1|
+1	1389	gene
+			gene	COI
+			pseudo
+3170	3225	tRNA
+			product	tRNA-Lys
+			codon_recognized	AAR
+			anticodon	(pos:3201..3203,aa:Lys,seq:ttt)
+3226	7472	misc_feature
+			note	non-coding region shared amongst elements of the multipartite Globodera pallida mtDNA; possibly involved in the regulation of replication and/or transcription
+

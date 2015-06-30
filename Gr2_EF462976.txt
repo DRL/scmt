@@ -1,0 +1,17 @@
+>Feature gb|EF462976.1|
+1	56	tRNA
+			product	tRNA-Tyr
+			codon_recognized	UAY
+			anticodon	(pos:33..35,aa:Tyr,seq:gta)
+111	437	gene
+			gene_desc	ND3
+			pseudo
+510	1598	gene
+			gene_desc	cytb
+510	1598	CDS
+			product	cytochrome b
+			transl_table	5
+			protein_id	gb|ABO31088.1|
+1599	6604	misc_feature
+			note	non-coding region shared amongst elements of the multipartite Globodera mtDNA; possibly involved in the regulation of replication and/or transcription
+

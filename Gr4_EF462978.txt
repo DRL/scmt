@@ -1,0 +1,61 @@
+>Feature gb|EF462978.2|
+1236	1289	tRNA
+			product	tRNA-Leu
+			codon_recognized	CUN
+1576	1629	tRNA
+			product	tRNA-Gln
+			codon_recognized	CAR
+1683	1737	tRNA
+			product	tRNA-Asn
+			codon_recognized	AAY
+1761	1816	tRNA
+			product	tRNA-Met
+			codon_recognized	AUR
+1822	1875	tRNA
+			product	tRNA-Gly
+			codon_recognized	GGN
+2142	2196	tRNA
+			product	tRNA-Ser
+			codon_recognized	UCN
+2553	2608	tRNA
+			product	tRNA-Trp
+			codon_recognized	UGR
+2755	3165	gene
+			gene_desc	ATP6
+			pseudo
+3253	3311	tRNA
+			product	tRNA-Ala
+			codon_recognized	GCN
+3316	3371	tRNA
+			product	tRNA-Leu
+			codon_recognized	UUR
+3372	3426	tRNA
+			product	tRNA-Glu
+			codon_recognized	GAR
+3506	3559	tRNA
+			product	tRNA-Cys
+			codon_recognized	UGY
+3982	4418	gene
+			gene_desc	16S ribosomal RNA
+			pseudo
+4443	4497	tRNA
+			product	tRNA-Phe
+			codon_recognized	UUY
+4505	4561	tRNA
+			product	tRNA-Ile
+			codon_recognized	AUY
+4587	4643	tRNA
+			product	tRNA-Asp
+			codon_recognized	GAY
+4645	4699	tRNA
+			product	tRNA-Pro
+			codon_recognized	CCN
+4948	5003	tRNA
+			product	tRNA-Lys
+			codon_recognized	AAR
+5009	5062	tRNA
+			product	tRNA-Val
+			codon_recognized	GUN
+5063	6010	misc_feature
+			note	non-coding region shared amongst elements of the multipartite Globodera mtDNA; possibly involved in the regulation of replication and/or transcription
+

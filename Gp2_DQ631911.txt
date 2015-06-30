@@ -1,0 +1,47 @@
+>Feature gb|DQ631911.1|
+7	687	gene
+			gene	COII
+			pseudo
+688	741	tRNA
+			product	tRNA-Thr
+			codon_recognized	ACN
+			anticodon	(pos:718..720,aa:Thr,seq:agt)
+745	1952	gene
+			gene	ND4
+			pseudo
+1953	2006	tRNA
+			product	tRNA-His
+			codon_recognized	CAY
+			anticodon	(pos:1984..1986,aa:His,seq:gtg)
+2037	2809	gene
+			gene	COIII
+			pseudo
+2842	3283	gene
+			gene	ND6
+			pseudo
+3569	4398	gene
+			gene	ND1
+			pseudo
+4399	4456	tRNA
+			product	tRNA-Ile
+			codon_recognized	AUY
+			anticodon	(pos:4432..4434,aa:Ile,seq:gat)
+4481	4537	tRNA
+			product	tRNA-Asp
+			codon_recognized	GAY
+			anticodon	(pos:4513..4515,aa:Asp,seq:gtc)
+4537	4591	tRNA
+			product	tRNA-Pro
+			codon_recognized	CCN
+			anticodon	(pos:4567..4569,aa:Pro,seq:tgg)
+4839	4895	tRNA
+			product	tRNA-Lys
+			codon_recognized	AAR
+			anticodon	(pos:4870..4872,aa:Lys,seq:ttt)
+4900	4953	tRNA
+			product	tRNA-Val
+			codon_recognized	GUN
+			anticodon	(pos:4930..4932,aa:Val,seq:tac)
+4954	7511	misc_feature
+			note	non-coding region shared amongst elements of the multipartite Globodera pallida mtDNA; possibly involved in the regulation of replication and/or transcription
+

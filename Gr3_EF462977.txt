@@ -1,0 +1,37 @@
+>Feature gb|EF462977.1|
+103	783	gene
+			gene	COII
+			pseudo
+784	837	tRNA
+			product	tRNA-Thr
+			codon_recognized	ACN
+			anticodon	(pos:814..816,aa:Thr,seq:agt)
+841	1010	gene
+			gene_desc	ND4
+			pseudo
+994	1650	gene
+			gene_desc	ND1
+			pseudo
+1720	1777	tRNA
+			product	tRNA-Ile
+			codon_recognized	AUY
+			anticodon	(pos:1753..1755,aa:Ile,seq:gat)
+1802	1857	tRNA
+			product	tRNA-Asp
+			codon_recognized	GAY
+			anticodon	(pos:1834..1836,aa:Asp,seq:gtc)
+1858	1912	tRNA
+			product	tRNA-Pro
+			codon_recognized	CCN
+			anticodon	(pos:1888..1890,aa:Pro,seq:tgg)
+2160	2216	tRNA
+			product	tRNA-Lys
+			codon_recognized	AAR
+			anticodon	(pos:2191..2193,aa:Lys,seq:ttt)
+2221	2274	tRNA
+			product	tRNA-Val
+			codon_recognized	GUN
+			anticodon	(pos:2251..2253,aa:Val,seq:tac)
+2275	3192	misc_feature
+			note	non-coding region shared amongst elements of the multipartite Globodera mtDNA; possibly involved in the regulation of replication and/or transcription
+
