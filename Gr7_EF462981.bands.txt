@@ -1,0 +1,8 @@
+band Gr7 tRNA-Glu tRNA-Glu 239 292 tRNA
+band Gr7 tRNA-Thr tRNA-Thr 324 377 tRNA
+band Gr7 COII COII 582 746 pseudogene
+band Gr7 ND4 ND4 858 1064 pseudogene
+band Gr7 tRNA-Arg tRNA-Arg 1947 2002 tRNA
+band Gr7 tRNA-Tyr tRNA-Tyr 2477 2530 tRNA
+band Gr7 COIII COIII 3941 4031 pseudogene
+band Gr7 222 222 4097 5308 misc_feature

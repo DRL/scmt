@@ -1,0 +1,3 @@
+band Gp5 COI COI 1 1389 pseudogene
+band Gp5 tRNA-Lys tRNA-Lys 3170 3225 tRNA
+band Gp5 222 222 3226 7472 misc_feature

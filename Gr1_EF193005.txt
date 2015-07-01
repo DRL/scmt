@@ -26,7 +26,10 @@
 			transl_table	5
 			protein_id	gb|ABO31090.1|
 2564	3027	repeat_region
-4073	4536
+                        order
+                        note    repeat 1
+                        rpt_type        dispersed
+4073	4536	repeat_region
 			order
 			note	repeat 1
 			rpt_type	dispersed
@@ -45,7 +48,10 @@
 			rpt_type	tandem
 			rpt_unit_range	6098..6106
 6511	6557	repeat_region
-8686	8732
+                        order
+                        note    repeat 2
+                        rpt_type        dispersed
+8686	8732	repeat_region
 			order
 			note	repeat 2
 			rpt_type	dispersed

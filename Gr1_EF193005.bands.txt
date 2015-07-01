@@ -1,0 +1,14 @@
+band Gr1 tRNA-Thr tRNA-Thr 1 55 tRNA
+band Gr1 ND4 ND4 60 1271 pseudogene
+band Gr1 trep1 trep1 94 131 tandem_repeat
+band Gr1 tRNA-Leu tRNA-Leu 1293 1240 tRNA
+band Gr1 COIII COIII 1345 2127 gene
+band Gr1 ND3 ND3 2174 2539 gene
+band Gr1 drep1 drep1 2564 3027 dispersed_repeat
+band Gr1 drep1 drep1 4073 4536 dispersed_repeat
+band Gr1 cytb cytb 2609 3692 pseudogene
+band Gr1 trep2 trep2 3809 3852 tandem_repeat
+band Gr1 tRNA-Gln tRNA-Gln 4078 4130 tRNA
+band Gr1 trep3 trep3 6098 6135 tandem_repeat
+band Gr1 drep2 drep2 6511 6557 dispersed_repeat
+band Gr1 drep2 drep2 8686 8732 dispersed_repeat

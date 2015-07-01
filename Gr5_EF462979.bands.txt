@@ -1,0 +1,3 @@
+band Gr5 COI COI 1283 2671 pseudogene
+band Gr5 tRNA-Lys tRNA-Lys 4452 4507 tRNA
+band Gr5 222 222 4508 5480 misc_feature

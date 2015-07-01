@@ -5,7 +5,7 @@
 File      : ncbi_feature_to_band.py
 Version   : 0.1
 Author    : Dominik R. Laetsch, dominik.laetsch at gmail dot com 
-Bugs      : 
+Comments  : Doesn't work always on non-gene/non-tRNA features ... check
 To do     : 
 """
 
@@ -40,19 +40,26 @@ def parse_ncbi_feature(feature_file):
                 feature_start, feature_stop, feature_type = line.rstrip("\n").split("\t")
                 featObj.add_coordinates(feature_start, feature_stop, feature_type)
             else:
-                field = line.rstrip("\n").lstrip(" ").lstrip("\t").split("\t")
-                if field[0] == 'product' or field[0] == 'gene':
-                    featObj.name = field[1]
-                if field[0] == 'pseudo':
-                    featObj.pseudo = 1
-                if field[0] == 'note':
-                    featObj.name = '222'
+                if line:
+                    field = line.rstrip("\n").lstrip(" ").lstrip("\t").split("\t")
+                    if field[0] == 'product' or field[0] == 'gene' or field[0] == 'gene_desc':
+                        featObj.name = field[1]
+                    if field[0] == 'pseudo':
+                        featObj.pseudo = 1
+                    if field[0] == 'note':
+                        if featObj.type == "misc_feature":
+                            featObj.name = '222'
+                        else:
+                            featObj.name = 'repeat'
     list_of_features.append(featObj)
     return list_of_features
 
 def write_bands(list_of_features, parent):
+    print "# " + feature_file
     for feat in list_of_features:
         if not feat.type == "CDS": 
+            if (feat.pseudo):
+                feat.type = 'pseudogene' 
             print "band %s %s %s %s %s %s" % (parent, feat.name, feat.name, feat.start, feat.stop, feat.type) 
 
 if __name__ == "__main__":

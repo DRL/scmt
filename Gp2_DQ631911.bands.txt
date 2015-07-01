@@ -1,0 +1,13 @@
+band Gp2 COII COII 7 687 pseudogene
+band Gp2 tRNA-Thr tRNA-Thr 688 741 tRNA
+band Gp2 ND4 ND4 745 1952 pseudogene
+band Gp2 tRNA-His tRNA-His 1953 2006 tRNA
+band Gp2 COIII COIII 2037 2809 pseudogene
+band Gp2 ND6 ND6 2842 3283 pseudogene
+band Gp2 ND1 ND1 3569 4398 pseudogene
+band Gp2 tRNA-Ile tRNA-Ile 4399 4456 tRNA
+band Gp2 tRNA-Asp tRNA-Asp 4481 4537 tRNA
+band Gp2 tRNA-Pro tRNA-Pro 4537 4591 tRNA
+band Gp2 tRNA-Lys tRNA-Lys 4839 4895 tRNA
+band Gp2 tRNA-Val tRNA-Val 4900 4953 tRNA
+band Gp2 222 222 4954 7511 misc_feature

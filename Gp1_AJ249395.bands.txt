@@ -1,0 +1,8 @@
+band Gp1 COII COII 7 720 gene
+band Gp1 ND4 ND4 746 1954 gene
+band Gp1 COIII COIII 2038 2811	gene
+band Gp1 ND6 ND6 2844 3287 gene
+band Gp1 ND1 ND1 3349 4212 gene
+band Gp1 ND3 ND3 4386 4721 gene
+band Gp1 cytb cytb 4794 5882 gene
+band Gp1 222 222 5883 9428 misc_feature

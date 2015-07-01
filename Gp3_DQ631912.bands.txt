@@ -1,0 +1,5 @@
+band Gp3 tRNA-Tyr tRNA-Tyr 1 55 tRNA
+band Gp3 ND3 ND3 100 304 pseudogene
+band Gp3 cytb cytb 998 2086 gene
+band Gp3 COI COI 2733 3159 pseudogene
+band Gp3 222 222 3160 6400 misc_feature

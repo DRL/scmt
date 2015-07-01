@@ -1,0 +1,4 @@
+band Gr2 tRNA-Tyr tRNA-Tyr 1 56 tRNA
+band Gr2 ND3 ND3 111 437 pseudogene
+band Gr2 cytb cytb 510 1598 gene
+band Gr2 222 222 1599 6604 misc_feature
