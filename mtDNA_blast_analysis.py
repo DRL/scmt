@@ -47,7 +47,8 @@ def parse_blastfile(blastfile):
             if (query == subject) and (qstart == sstart) and (qstop == sstop):
                 pass # no hits to self
             else:
-                if evalue <= THRESHOLD:
+                #if evalue <= EVAL_THRESHOLD:
+                if bitscore >= SCORE_THRESHOLD:
                     ribbon = RibbonObj(query, subject, pid, qstart, qstop, sstart, sstop, evalue, bitscore)
                     if (data):
                         for prev_ribbon in data:
@@ -64,14 +65,10 @@ def write_ribbons(data):
     # chr1 start1 end1 chr2 start2 end2 [options]
     for ribbon in sorted(data, key=lambda x: (x.query, x.subject, x.qstart)):
         colour = ''
-        if ribbon.evalue == 0.0:
-            colour = 'vvvvdgrey'
-        elif ribbon.evalue <= 1e-100:
-            colour = 'vdgrey'
-        elif ribbon.evalue <= 1e-50:
+        if ribbon.query[0:2] == ribbon.subject[0:2]:
             colour = 'lgrey'
         else:
-            colour = 'vvvvlgrey' 
+            colour = 'red' 
         print "%s %s %s %s %s %s color=%s" % (ribbon.query, ribbon.qstart, ribbon.qstop, ribbon.subject, ribbon.sstart, ribbon.sstop, colour)
 
 if __name__ == "__main__":
@@ -80,7 +77,8 @@ if __name__ == "__main__":
 
     blastfile = sys.argv[1]
 
-    THRESHOLD = 0.0
+    EVAL_THRESHOLD = 1e-200
+    SCORE_THRESHOLD = 2000
     
     name = {
         'gi|5869814|emb|AJ249395.1|' : 'Gp1_AJ249395',
