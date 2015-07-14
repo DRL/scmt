@@ -1,0 +1,773 @@
+Gp1_AJ249395 67 720 COX2_1 label=gene
+Gp1_AJ249395 689 742 Thr label=tRNA
+689	742	gene
+			locus_tag	PROKKA_00002
+848	1954	CDS
+			Parent	PROKKA_00003_gene
+			gene	ND4_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97612.1
+			locus_tag	PROKKA_00003
+			product	NADH dehydrogenase subunit 4
+848	1954	gene
+			gene	ND4_1
+			locus_tag	PROKKA_00003
+2107	2799	CDS
+			Parent	PROKKA_00004_gene
+			gene	COX3_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:YP_008994653.1
+			locus_tag	PROKKA_00004
+			product	cytochrome c oxidase subunit III
+2107	2799	gene
+			gene	COX3_1
+			locus_tag	PROKKA_00004
+2799	3287	CDS
+			Parent	PROKKA_00005_gene
+			gene	ND6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:AEH05057.1
+			locus_tag	PROKKA_00005
+			product	NADH dehydrogenase subunit 6
+2799	3287	gene
+			gene	ND6
+			locus_tag	PROKKA_00005
+3406	3999	CDS
+			Parent	PROKKA_00006_gene
+			gene	ND1_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:YP_004857907.1
+			locus_tag	PROKKA_00006
+			product	NADH dehydrogenase subunit 1
+3406	3999	gene
+			gene	ND1_1
+			locus_tag	PROKKA_00006
+3874	3929	tRNA
+			Parent	PROKKA_00007_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00007
+			product	mtRNA-Leu(gag)
+3874	3929	gene
+			locus_tag	PROKKA_00007
+5448	5882	CDS
+			Parent	PROKKA_00008_gene
+			gene	CYTB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97629.1
+			locus_tag	PROKKA_00008
+			product	cytochrome b
+5448	5882	gene
+			gene	CYTB_1
+			locus_tag	PROKKA_00008
+5545	5625	tRNA
+			Parent	PROKKA_00009_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00009
+			product	mtRNA-Lys(ttt)
+5545	5625	gene
+			locus_tag	PROKKA_00009
+5973	6031	tRNA
+			Parent	PROKKA_00010_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00010
+			product	mtRNA-Leu(tag)
+5973	6031	gene
+			locus_tag	PROKKA_00010
+6229	6462	CDS
+			Parent	PROKKA_00011_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00011
+			product	hypothetical protein
+6229	6462	gene
+			locus_tag	PROKKA_00011
+6712	6957	CDS
+			Parent	PROKKA_00012_gene
+			gene	COX1_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97616.1
+			locus_tag	PROKKA_00012
+			product	cytochrome oxidase subunit 1
+6712	6957	gene
+			gene	COX1_1
+			locus_tag	PROKKA_00012
+7462	7337	CDS
+			Parent	PROKKA_00013_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00013
+			product	hypothetical protein
+7462	7337	gene
+			locus_tag	PROKKA_00013
+7652	7702	tRNA
+			Parent	PROKKA_00014_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00014
+			product	mtRNA-Ser(cct)
+7652	7702	gene
+			locus_tag	PROKKA_00014
+>Feature Gp2_DQ631911
+90	719	CDS
+			Parent	PROKKA_00015_gene
+			gene	COX2_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97623.1
+			locus_tag	PROKKA_00015
+			product	cytochrome oxidase subunit 2
+90	719	gene
+			gene	COX2_2
+			locus_tag	PROKKA_00015
+688	741	tRNA
+			Parent	PROKKA_00016_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00016
+			product	mtRNA-Thr(agt)
+688	741	gene
+			locus_tag	PROKKA_00016
+712	1437	CDS
+			Parent	PROKKA_00017_gene
+			gene	ND4_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97612.1
+			locus_tag	PROKKA_00017
+			product	NADH dehydrogenase subunit 4
+712	1437	gene
+			gene	ND4_2
+			locus_tag	PROKKA_00017
+2797	3249	CDS
+			Parent	PROKKA_00018_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00018
+			product	hypothetical protein
+2797	3249	gene
+			locus_tag	PROKKA_00018
+3746	4321	CDS
+			Parent	PROKKA_00019_gene
+			gene	ND1_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:YP_008145667.1
+			locus_tag	PROKKA_00019
+			product	NADH dehydrogenase subunit 1
+3746	4321	gene
+			gene	ND1_2
+			locus_tag	PROKKA_00019
+3995	4050	tRNA
+			Parent	PROKKA_00020_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00020
+			product	mtRNA-Leu(gag)
+3995	4050	gene
+			locus_tag	PROKKA_00020
+4900	4953	tRNA
+			Parent	PROKKA_00021_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00021
+			product	mtRNA-Val(tac)
+4900	4953	gene
+			locus_tag	PROKKA_00021
+>Feature Gp3_DQ631912
+508	813	CDS
+			Parent	PROKKA_00022_gene
+			gene	CYTB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97613.1
+			locus_tag	PROKKA_00022
+			product	cytochrome b
+508	813	gene
+			gene	CYTB_2
+			locus_tag	PROKKA_00022
+998	1303	CDS
+			Parent	PROKKA_00023_gene
+			gene	CYTB_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97613.1
+			locus_tag	PROKKA_00023
+			product	cytochrome b
+998	1303	gene
+			gene	CYTB_3
+			locus_tag	PROKKA_00023
+1652	2086	CDS
+			Parent	PROKKA_00024_gene
+			gene	CYTB_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97629.1
+			locus_tag	PROKKA_00024
+			product	cytochrome b
+1652	2086	gene
+			gene	CYTB_4
+			locus_tag	PROKKA_00024
+1749	1829	tRNA
+			Parent	PROKKA_00025_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00025
+			product	mtRNA-Lys(ttt)
+1749	1829	gene
+			locus_tag	PROKKA_00025
+2178	2236	tRNA
+			Parent	PROKKA_00026_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00026
+			product	mtRNA-Leu(tag)
+2178	2236	gene
+			locus_tag	PROKKA_00026
+2433	2666	CDS
+			Parent	PROKKA_00027_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00027
+			product	hypothetical protein
+2433	2666	gene
+			locus_tag	PROKKA_00027
+2946	3161	CDS
+			Parent	PROKKA_00028_gene
+			gene	COX1_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97616.1
+			locus_tag	PROKKA_00028
+			product	cytochrome oxidase subunit 1
+2946	3161	gene
+			gene	COX1_2
+			locus_tag	PROKKA_00028
+3886	3937	tRNA
+			Parent	PROKKA_00029_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00029
+			product	mtRNA-Ser(cct)
+3886	3937	gene
+			locus_tag	PROKKA_00029
+>Feature Gp4_DQ631913
+3	58	tRNA
+			Parent	PROKKA_00030_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00030
+			product	mtRNA-Leu(tag)
+3	58	gene
+			locus_tag	PROKKA_00030
+336	406	tRNA
+			Parent	PROKKA_00031_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00031
+			product	mtRNA-Gln(ttg)
+336	406	gene
+			locus_tag	PROKKA_00031
+384	450	tRNA
+			Parent	PROKKA_00032_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00032
+			product	mtRNA-Ser(tga)
+384	450	gene
+			locus_tag	PROKKA_00032
+448	518	tRNA
+			Parent	PROKKA_00033_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00033
+			product	mtRNA-Asn(gtt)
+448	518	gene
+			locus_tag	PROKKA_00033
+526	581	tRNA
+			Parent	PROKKA_00034_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00034
+			product	mtRNA-Met(cat)
+526	581	gene
+			locus_tag	PROKKA_00034
+586	641	tRNA
+			Parent	PROKKA_00035_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00035
+			product	mtRNA-Gly(tcc)
+586	641	gene
+			locus_tag	PROKKA_00035
+1318	1370	tRNA
+			Parent	PROKKA_00036_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00036
+			product	mtRNA-Trp(tca)
+1318	1370	gene
+			locus_tag	PROKKA_00036
+1518	1862	CDS
+			Parent	PROKKA_00037_gene
+			gene	ATP6_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97621.1
+			locus_tag	PROKKA_00037
+			product	ATP synthase F0 subunit 6
+1518	1862	gene
+			gene	ATP6_1
+			locus_tag	PROKKA_00037
+2134	2188	tRNA
+			Parent	PROKKA_00038_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00038
+			product	mtRNA-Glu(ttc)
+2134	2188	gene
+			locus_tag	PROKKA_00038
+2213	2265	tRNA
+			Parent	PROKKA_00039_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00039
+			product	mtRNA-Ser(tct)
+2213	2265	gene
+			locus_tag	PROKKA_00039
+3205	3259	tRNA
+			Parent	PROKKA_00040_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00040
+			product	mtRNA-Phe(gaa)
+3205	3259	gene
+			locus_tag	PROKKA_00040
+3267	3323	tRNA
+			Parent	PROKKA_00041_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00041
+			product	mtRNA-Ile(gat)
+3267	3323	gene
+			locus_tag	PROKKA_00041
+3769	3822	tRNA
+			Parent	PROKKA_00042_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00042
+			product	mtRNA-Val(tac)
+3769	3822	gene
+			locus_tag	PROKKA_00042
+7227	7292	tRNA
+			Parent	PROKKA_00043_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00043
+			product	mtRNA-Lys(ttt)
+7227	7292	gene
+			locus_tag	PROKKA_00043
+>Feature Gp5_DQ631914
+541	906	CDS
+			Parent	PROKKA_00044_gene
+			gene	COX1_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97609.1
+			locus_tag	PROKKA_00044
+			product	cytochrome oxidase subunit 1
+541	906	gene
+			gene	COX1_3
+			locus_tag	PROKKA_00044
+985	1596	CDS
+			Parent	PROKKA_00045_gene
+			gene	COX1_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97609.1
+			locus_tag	PROKKA_00045
+			product	cytochrome oxidase subunit 1
+985	1596	gene
+			gene	COX1_4
+			locus_tag	PROKKA_00045
+1807	2685	CDS
+			Parent	PROKKA_00046_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00046
+			product	hypothetical protein
+1807	2685	gene
+			locus_tag	PROKKA_00046
+2880	3101	CDS
+			Parent	PROKKA_00047_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00047
+			product	hypothetical protein
+2880	3101	gene
+			locus_tag	PROKKA_00047
+4093	3770	CDS
+			Parent	PROKKA_00048_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00048
+			product	hypothetical protein
+4093	3770	gene
+			locus_tag	PROKKA_00048
+5310	5483	CDS
+			Parent	PROKKA_00049_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00049
+			product	hypothetical protein
+5310	5483	gene
+			locus_tag	PROKKA_00049
+>Feature Gr2_EF462976
+111	428	CDS
+			Parent	PROKKA_00050_gene
+			gene	ND3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97608.1
+			locus_tag	PROKKA_00050
+			product	NADH dehydrogenase subunit 3
+111	428	gene
+			gene	ND3
+			locus_tag	PROKKA_00050
+510	815	CDS
+			Parent	PROKKA_00051_gene
+			gene	CYTB_5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97613.1
+			locus_tag	PROKKA_00051
+			product	cytochrome b
+510	815	gene
+			gene	CYTB_5
+			locus_tag	PROKKA_00051
+1164	1598	CDS
+			Parent	PROKKA_00052_gene
+			gene	CYTB_6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97629.1
+			locus_tag	PROKKA_00052
+			product	cytochrome b
+1164	1598	gene
+			gene	CYTB_6
+			locus_tag	PROKKA_00052
+2420	2896	CDS
+			Parent	PROKKA_00053_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00053
+			product	hypothetical protein
+2420	2896	gene
+			locus_tag	PROKKA_00053
+2917	3363	CDS
+			Parent	PROKKA_00054_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00054
+			product	hypothetical protein
+2917	3363	gene
+			locus_tag	PROKKA_00054
+>Feature Gr3_EF462977
+186	815	CDS
+			Parent	PROKKA_00055_gene
+			gene	COX2_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97623.1
+			locus_tag	PROKKA_00055
+			product	cytochrome oxidase subunit 2
+186	815	gene
+			gene	COX2_3
+			locus_tag	PROKKA_00055
+784	837	tRNA
+			Parent	PROKKA_00056_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00056
+			product	mtRNA-Thr(agt)
+784	837	gene
+			locus_tag	PROKKA_00056
+808	1650	CDS
+			Parent	PROKKA_00057_gene
+			gene	ND1_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:YP_003434084.1
+			locus_tag	PROKKA_00057
+			product	NADH dehydrogenase subunit 1
+808	1650	gene
+			gene	ND1_3
+			locus_tag	PROKKA_00057
+1315	1370	tRNA
+			Parent	PROKKA_00058_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00058
+			product	mtRNA-Leu(gag)
+1315	1370	gene
+			locus_tag	PROKKA_00058
+2221	2274	tRNA
+			Parent	PROKKA_00059_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00059
+			product	mtRNA-Val(tac)
+2221	2274	gene
+			locus_tag	PROKKA_00059
+>Feature Gr5_EF462979
+1823	2188	CDS
+			Parent	PROKKA_00060_gene
+			gene	COX1_5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97609.1
+			locus_tag	PROKKA_00060
+			product	cytochrome oxidase subunit 1
+1823	2188	gene
+			gene	COX1_5
+			locus_tag	PROKKA_00060
+2267	2878	CDS
+			Parent	PROKKA_00061_gene
+			gene	COX1_6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97609.1
+			locus_tag	PROKKA_00061
+			product	cytochrome oxidase subunit 1
+2267	2878	gene
+			gene	COX1_6
+			locus_tag	PROKKA_00061
+3089	3697	CDS
+			Parent	PROKKA_00062_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00062
+			product	hypothetical protein
+3089	3697	gene
+			locus_tag	PROKKA_00062
+4162	4383	CDS
+			Parent	PROKKA_00063_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00063
+			product	hypothetical protein
+4162	4383	gene
+			locus_tag	PROKKA_00063
+>Feature Gr6_EF462980
+630	1529	CDS
+			Parent	PROKKA_00064_gene
+			gene	ND5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:YP_007183187.1
+			locus_tag	PROKKA_00064
+			product	NADH dehydrogenase subunit 5
+630	1529	gene
+			gene	ND5
+			locus_tag	PROKKA_00064
+3395	3679	CDS
+			Parent	PROKKA_00065_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00065
+			product	hypothetical protein
+3395	3679	gene
+			locus_tag	PROKKA_00065
+4310	4534	CDS
+			Parent	PROKKA_00066_gene
+			gene	COX1_7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97616.1
+			locus_tag	PROKKA_00066
+			product	cytochrome oxidase subunit 1
+4310	4534	gene
+			gene	COX1_7
+			locus_tag	PROKKA_00066
+4993	5063	tRNA
+			Parent	PROKKA_00067_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00067
+			product	mtRNA-Pro(tgg)
+4993	5063	gene
+			locus_tag	PROKKA_00067
+>Feature Gr7_EF462981
+238	293	tRNA
+			Parent	PROKKA_00068_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00068
+			product	mtRNA-Glu(ttc)
+238	293	gene
+			locus_tag	PROKKA_00068
+348	1088	CDS
+			Parent	PROKKA_00069_gene
+			gene	COX2_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97607.1
+			locus_tag	PROKKA_00069
+			product	cytochrome oxidase subunit 2
+348	1088	gene
+			gene	COX2_4
+			locus_tag	PROKKA_00069
+1301	1038	CDS
+			Parent	PROKKA_00070_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00070
+			product	hypothetical protein
+1301	1038	gene
+			locus_tag	PROKKA_00070
+2477	2536	tRNA
+			Parent	PROKKA_00071_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00071
+			product	mtRNA-Tyr(gta)
+2477	2536	gene
+			locus_tag	PROKKA_00071
+2719	3879	CDS
+			Parent	PROKKA_00072_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00072
+			product	hypothetical protein
+2719	3879	gene
+			locus_tag	PROKKA_00072
+>Feature Gr1_EF193005
+1	55	tRNA
+			Parent	PROKKA_00073_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00073
+			product	mtRNA-Thr(tgt)
+1	55	gene
+			locus_tag	PROKKA_00073
+495	1271	CDS
+			Parent	PROKKA_00074_gene
+			gene	ND4_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97612.1
+			locus_tag	PROKKA_00074
+			product	NADH dehydrogenase subunit 4
+495	1271	gene
+			gene	ND4_3
+			locus_tag	PROKKA_00074
+1271	1330	tRNA
+			Parent	PROKKA_00075_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00075
+			product	mtRNA-His(gtg)
+1271	1330	gene
+			locus_tag	PROKKA_00075
+1423	2127	CDS
+			Parent	PROKKA_00076_gene
+			gene	COX3_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:YP_008994653.1
+			locus_tag	PROKKA_00076
+			product	cytochrome c oxidase subunit III
+1423	2127	gene
+			gene	COX3_2
+			locus_tag	PROKKA_00076
+2618	3211	CDS
+			Parent	PROKKA_00077_gene
+			gene	CYTB_7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97613.1
+			locus_tag	PROKKA_00077
+			product	cytochrome b
+2618	3211	gene
+			gene	CYTB_7
+			locus_tag	PROKKA_00077
+4301	4702	CDS
+			Parent	PROKKA_00078_gene
+			gene	CYTB_8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97613.1
+			locus_tag	PROKKA_00078
+			product	cytochrome b
+4301	4702	gene
+			gene	CYTB_8
+			locus_tag	PROKKA_00078
+5006	5470	CDS
+			Parent	PROKKA_00079_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00079
+			product	hypothetical protein
+5006	5470	gene
+			locus_tag	PROKKA_00079
+5581	5639	tRNA
+			Parent	PROKKA_00080_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00080
+			product	mtRNA-Lys(ttt)
+5581	5639	gene
+			locus_tag	PROKKA_00080
+6465	6403	tRNA
+			Parent	PROKKA_00081_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00081
+			product	mtRNA-His(gtg)
+6465	6403	gene
+			locus_tag	PROKKA_00081
+8736	8677	tRNA
+			Parent	PROKKA_00082_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00082
+			product	mtRNA-???(gc)
+8736	8677	gene
+			locus_tag	PROKKA_00082
+8694	8752	tRNA
+			Parent	PROKKA_00083_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00083
+			product	mtRNA-Val(tac)
+8694	8752	gene
+			locus_tag	PROKKA_00083
+>Feature Gr4_EF462978
+1238	1293	tRNA
+			Parent	PROKKA_00084_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00084
+			product	mtRNA-Leu(tag)
+1238	1293	gene
+			locus_tag	PROKKA_00084
+1571	1641	tRNA
+			Parent	PROKKA_00085_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00085
+			product	mtRNA-Gln(ttg)
+1571	1641	gene
+			locus_tag	PROKKA_00085
+1619	1685	tRNA
+			Parent	PROKKA_00086_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00086
+			product	mtRNA-Ser(tga)
+1619	1685	gene
+			locus_tag	PROKKA_00086
+1683	1753	tRNA
+			Parent	PROKKA_00087_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00087
+			product	mtRNA-Asn(gtt)
+1683	1753	gene
+			locus_tag	PROKKA_00087
+1761	1816	tRNA
+			Parent	PROKKA_00088_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00088
+			product	mtRNA-Met(cat)
+1761	1816	gene
+			locus_tag	PROKKA_00088
+1821	1876	tRNA
+			Parent	PROKKA_00089_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00089
+			product	mtRNA-Gly(tcc)
+1821	1876	gene
+			locus_tag	PROKKA_00089
+2551	3165	CDS
+			Parent	PROKKA_00090_gene
+			gene	ATP6_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:Nematoda_mtDNA.cdhit.faa:ADK97621.1
+			locus_tag	PROKKA_00090
+			product	ATP synthase F0 subunit 6
+2551	3165	gene
+			gene	ATP6_2
+			locus_tag	PROKKA_00090
+2554	2606	tRNA
+			Parent	PROKKA_00091_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00091
+			product	mtRNA-Trp(tca)
+2554	2606	gene
+			locus_tag	PROKKA_00091
+3372	3426	tRNA
+			Parent	PROKKA_00092_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00092
+			product	mtRNA-Glu(ttc)
+3372	3426	gene
+			locus_tag	PROKKA_00092
+3451	3503	tRNA
+			Parent	PROKKA_00093_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00093
+			product	mtRNA-Ser(tct)
+3451	3503	gene
+			locus_tag	PROKKA_00093
+4443	4497	tRNA
+			Parent	PROKKA_00094_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00094
+			product	mtRNA-Phe(gaa)
+4443	4497	gene
+			locus_tag	PROKKA_00094
+4505	4561	tRNA
+			Parent	PROKKA_00095_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00095
+			product	mtRNA-Ile(gat)
+4505	4561	gene
+			locus_tag	PROKKA_00095
+5009	5062	tRNA
+			Parent	PROKKA_00096_gene
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	PROKKA_00096
+			product	mtRNA-Val(tac)
+5009	5062	gene
+			locus_tag	PROKKA_00096
+5866	5588	CDS
+			Parent	PROKKA_00097_gene
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PROKKA_00097
+			product	hypothetical protein
+5866	5588	gene
+			locus_tag	PROKKA_00097
