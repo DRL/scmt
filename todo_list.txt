@@ -1,0 +1,13 @@
+- Is ATP6/16S in the gpal/gros assemblies? (ATP6 should be there)
+- are pseudogenes really pseudogenes? (might have been tagged as such by ncbi because fishy startcodon)
+- Make plots separately for each species (within blast)
+	- GC (window of 10)
+	- coverage pallida (each population)
+	- coverage rostochiensis 
+- Make plots for both species (between blast)
+	- GC (window of 10)
+	- coverage pallida (each population)
+	- coverage rostochiensis 
+- GC (window of 10)
+- Coverage from reads (all vs all)
+

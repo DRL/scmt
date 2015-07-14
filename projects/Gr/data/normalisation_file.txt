@@ -1,0 +1,9 @@
+sorted.ERR114517.vs.mtDNA.pe.bam.dz.cov	0.9251
+sorted.ERR123952.vs.mtDNA.pe.bam.dz.cov	0.5871
+sorted.ERR123953.vs.mtDNA.pe.bam.dz.cov	0.6491
+sorted.ERR123954.vs.mtDNA.pe.bam.dz.cov	0.7061
+sorted.ERR123955.vs.mtDNA.pe.bam.dz.cov	0.6579
+sorted.ERR123956.vs.mtDNA.pe.bam.dz.cov	0.7057
+sorted.ERR123957.vs.mtDNA.pe.bam.dz.cov	1
+sorted.ERR123958.vs.mtDNA.pe.bam.dz.cov	1
+sorted.mtDNA.reads.vs.mtDNA.pe.bam.dz.cov	1

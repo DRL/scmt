@@ -1,0 +1,5 @@
+chr - Gp1_AJ249395 Gp1 0 9428 vvvlgrey
+chr - Gp2_DQ631911 Gp2 0 7511 vvvlgrey
+chr - Gp3_DQ631912 Gp3 0 6400 vvvlgrey
+chr - Gp4_DQ631913 Gp4 0 7560 vvvlgrey
+chr - Gp5_DQ631914 Gp5 0 7472 vvvlgrey
